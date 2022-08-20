@@ -14,12 +14,8 @@
 
 ## 1. Prefácio
 
-![Violence](https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/v/violencia-contra-mulher-09.16-1400x800.jpg)
-
- Tirando as zonas de guerras, a América Latina é o lugar de maior risco para as mulheres viverem. O Brasil por exemplo apresenta altos índices de mortes de mulheres por arma de fogo, de seus próprios parceiros.
-
-São inúmeros os casos de agressões físicas, psicológicas, sexuais, visuais, acontecendo a cada minuto, em todos os lugares. 
-Não existe local seguro, isso ocorre na rua, nos transportes e locais públicos e pricipalmente dentro da sua própria casa.
+Primeiro projeto desenvolvido no Bootcamp da Laboratoria Brasil, startup Latino Americana que capacita e insere mulheres na área de tecnologia.
+Desenvolvido em 2019.
 
 ## 2. Resumo do projeto
 
